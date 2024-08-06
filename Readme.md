@@ -1,13 +1,3 @@
----
-html:
-    toc: true
-    # number_sections: true
-    toc_depth: 6
-    toc_float: true
-        collapsed: true
-        smooth_scroll: true
---- 
-
 
 
 
