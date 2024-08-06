@@ -1,3 +1,23 @@
+<!-- ---
+html:
+    toc: true
+    # number_sections: true
+    toc_depth: 6
+    toc_float: true
+        collapsed: true
+        smooth_scroll: true
+---  -->
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [工具](#工具)
+  - [jupyter](#jupyter)
+  - [测试1](#测试1)
+  - [测试2](#测试2)
+  - [测试3](#测试3)
+
+<!-- /code_chunk_output -->
 
 
 
