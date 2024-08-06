@@ -1,5 +1,4 @@
 <script setup>
-// import VUE from 'vue'
 </script>
 
 <template>
