@@ -4,14 +4,10 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <header>
-    <div>
-      
-    </div>
-    
-
     <div class="wrapper">
       <nav>
-        <a href="https://xystarxy.github.io/Jupyterlite">Jupyterlite</a>
+        <RouterLink to="https://xystarxy.github.io/Jupyterlite" target="_blank" rel="noopener noreferrer">Jupyterlite</RouterLink>
+        <RouterLink to="/">home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
