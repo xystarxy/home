@@ -6,7 +6,7 @@ import { RouterLink, RouterView } from 'vue-router'
   <header>
     <div class="wrapper">
       <nav>
-        <RouterLink to="https://xystarxy.github.io/Jupyterlite" target="_blank" rel="noopener noreferrer">Jupyterlite</RouterLink>
+        <a href="https://xystarxy.github.io/Jupyterlite" target="_blank" rel="noopener noreferrer">Jupyterlite</a>
         <RouterLink to="/">home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
