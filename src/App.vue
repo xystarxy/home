@@ -1,15 +1,17 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
   <header>
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+    <div>
+      
+    </div>
+    
 
+    <div class="wrapper">
       <nav>
-        <RouterLink to="https://xystarxy.github.io/Jupyterlite">Jupyterlite</RouterLink>
+        <a href="https://xystarxy.github.io/Jupyterlite">Jupyterlite</a>
         <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
